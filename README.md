@@ -1,8 +1,3 @@
-Φυσικά! Όταν γράφεις ένα README.md στα Αγγλικά, είναι σημαντικό να είναι "direct" (άμεσο) και να χρησιμοποιείς απλή γλώσσα που δείχνει ότι εσύ έγραψες τον κώδικα για να λύσεις ένα πρόβλημα.
-
-Εδώ είναι η "ανθρώπινη" έκδοση στα Αγγλικά:
-Markdown
-
 # My Python Lab 🐍
 
 Hey there! This is where I’m keeping my first Python scripts. I’m building these to get comfortable with the basics and actually make some useful tools while I'm at it.
